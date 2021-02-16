@@ -21,4 +21,4 @@ It is slightly off of my original estimate but in terms of total lines i'm about
 
 Unfortunately, I couldn't connect to necessary servers for gource
 
-![gource]()
+![gource](https://github.com/VictoriaSavage526/Lab-3/blob/main/gource_fail.PNG)
