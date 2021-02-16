@@ -16,4 +16,4 @@ First Commit: Create License
 Latest Commit: UI-Update
 Branches: master, UI-Update, UI, ad-license-1
 
-gitstats screecap ![gitstats]()
+gitstats screecap ![gitstats](https://github.com/VictoriaSavage526/Lab-3/blob/main/stats.PNG)
