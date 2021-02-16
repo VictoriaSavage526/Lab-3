@@ -5,3 +5,5 @@ Formula 1 ![Formula 1](https://github.com/VictoriaSavage526/Lab-3/blob/main/sqrt
 
 
 Formula 2 ![Formula 2](https://github.com/VictoriaSavage526/Lab-3/blob/main/sqrt.png)
+
+Hadamard ![Hadamard]()
